@@ -38,7 +38,9 @@ A professional-grade stock market analysis and AI-powered price prediction syste
 | **Rolling Risk Metrics** | 20-day volatility, Sharpe ratio, max drawdown      |
 | **Beta Analysis**        | Correlation and beta with NIFTY 50 benchmark       |
 
-### 🔮 AI Predictions
+### 🔮 ML Forecasting (Experimental)
+
+> Note: Stock price prediction is inherently uncertain. These models are for educational demonstration.
 
 - **Prophet**: Facebook's time-series forecasting
 - **XGBoost**: Gradient boosting with technical indicators
