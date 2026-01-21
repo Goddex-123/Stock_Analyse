@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-red.svg)](https://streamlit.io)
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Click_Here-brightgreen?style=for-the-badge)](https://goddex-123-stock-analyse.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Click_Here-brightgreen?style=for-the-badge)](https://stock-analyse.streamlit.app/)
 
 > **🎯 Try it now!** Click the **Live Demo** badge above to use the app instantly - no installation required!
 
