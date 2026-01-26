@@ -67,6 +67,15 @@ python -m streamlit run app.py
 
 Open browser: **http://localhost:8501**
 
+## 🛠️ Technical Stack Justification
+
+| Technology    | Purpose            | Why?                                                                   |
+| ------------- | ------------------ | ---------------------------------------------------------------------- |
+| **Streamlit** | Dashboard Frontend | Rapid prototyping and seamless integration with Python ML libraries.   |
+| **YFinance**  | Data Acquisition   | Open-source, reliable historical data for Indian markets.              |
+| **Prophet**   | Forecasting        | Handles seasonality and outliers in financial time-series effectively. |
+| **XGBoost**   | Classification     | State-of-the-art performance for tabular data with high cardinality.   |
+
 ## 📁 Project Structure
 
 ```
