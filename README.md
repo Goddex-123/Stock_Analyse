@@ -5,6 +5,8 @@
 ![Docker](https://img.shields.io/badge/docker-ready-blue)
 ![CI Status](https://github.com/Goddex-123/Stock_Analyse/actions/workflows/ci.yml/badge.svg)
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge&logo=streamlit)](https://stock-analyse.streamlit.app)
+
 > **Comprehensive equity research tool for BSE/NSE markets featuring technical analysis, diverse forecasting models, and fundamental risk metrics.**
 
 ---
